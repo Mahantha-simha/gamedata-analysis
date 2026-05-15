@@ -1,0 +1,16 @@
+,EventID,StadiumID,RefereeID,GameID,TimeID,DateID,PauseID,HighlightID,GameDuration,GameNumberOfPause,GameTeam,GameInterruption,GameMinuteOfPause,GameDurationOfPause,GameResult
+0,1,10,2,86,5050,Invalid,None,2,55,None,blue,1,None,None,red wins
+1,10,10,5,89,4674,1500,2,10,34,3,blue,1,24,23,blue wins
+2,10,10,14,88,15426,Invalid,None,None,19,None,blue,0,None,None,red wins
+3,10,10,1,90,6000,15,None,3,-5,2,red,-1,None,None,blue wins
+4,100,11,3,91,7000,Invalid,4,5,45,4,green,1,30,15,yellow
+5,9,3,None,92,8000,,5,6,50,5,blue,1,20,10,blue wins
+6,10,3,4,93,9000,Invalid,6,7,60,None,red,1,25,20,red wins
+7,10,3,2,94,Invalid,Invalid,None,8,65,7,blue,1,15,5,blue wins
+8,10,3,6,95,10000,Invalid,7,9,9000999978988,8,red,1,10,10,red wins
+9,10,10,2,96,11000,Invalid,8,10,75,9,None,1,5,15,blue wins
+10,11,16,7,97,12000,Invalid,9,11,80,10,blue,2,35,25,red wins
+11,12,17,8,98,13000,33,10,12,85,None,blue,None,40,30,blue wins
+12,None,18,9,99,14000,Invalid,11,13,90,12,red,3,-45,35,red wins
+13,10,19,10,100,15000,Invalid,12,14,95,13,blue,4,50,40,blue wins
+14,10,20,11,101,16000,Invalid,13,15,6,14,red,5,55,45,red wins
